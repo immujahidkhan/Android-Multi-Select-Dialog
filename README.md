@@ -33,7 +33,8 @@ Setup
 2. **Add the dependency**
 ```gradle
 	dependencies {
-      		 compile 'com.github.abumoallim:Android-Multi-Select-Dialog:v1.9'
+      		 	        implementation 'com.github.immujahidkhan:Android-Multi-Select-Dialog:Tag'
+
 	}
 ```
 
